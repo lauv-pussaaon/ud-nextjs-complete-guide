@@ -6,6 +6,7 @@ SQLiteDB, Prisma, nextui, next-auth/authjs, Github OAuth
 npm install @nextui-org/react framer-motion
 npm install prisma
 npm install --save-exact @auth/core@0.18.1 @auth/prisma-adapter@1.0.6 next-auth@5.0.0-beta.3
+npm install zod
 ```
 
 # database setup
